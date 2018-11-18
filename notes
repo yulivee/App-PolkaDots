@@ -1,0 +1,10 @@
+=head2 SYNOPSIS
+
+ pdots update
+ pdots get git@github.com:yulivee/dotfiles
+ pdots get dotfiles.zip
+ pdots get dotfiles.tar.gz
+ pdots get gist.github.com/gist
+ pdots rm .vimrc
+
+=cut

@@ -1,0 +1,6 @@
+#!/usr/bin/perl -w
+use FindBin::libs;
+use PolkaDots;
+use strict;
+use warnings;
+PolkaDots->run;
